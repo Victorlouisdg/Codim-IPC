@@ -10,3 +10,4 @@ Tests/.cache
 Tests/.pytest_cache
 *.pyc
 *.so
+*.egg-info
