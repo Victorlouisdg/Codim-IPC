@@ -4,7 +4,6 @@ import blenderproc as bproc
 import bpy
 import numpy as np
 from cipc.simulator import SimulationCIPC
-# from cloth_manipulation.cipc_sim import SimulationCIPC
 from cipc.dirs import ensure_output_filepaths
 from cipc.materials.penava import materials_by_name
 
